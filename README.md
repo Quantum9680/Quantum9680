@@ -1,6 +1,6 @@
 ### 👋 Nice to meet you! I'm Andrew Chen
 ---
-I'm a Statistics major at UCLA graduating in 2024. I'm primarily interested in how we can use data science to make impactedful decisions in product development and business, but I'm open to exploring all facets of data, product, and entrepreneurship. I'm currently a junior working as a statistical research assistant as UCLA Department of Medicine, and just came off a data analyst internship at a music/digital-healthcare startup called Sona. My email is open and I'm always willing to chat!
+I'm a Statistics major at UCLA graduating in 2024. I'm primarily interested in how we can use data science to make impactful decisions in product development and business, but I'm open to exploring all facets of data, product, and entrepreneurship. I'm currently a junior working as a statistical research assistant as UCLA Department of Medicine, and just came off a data analyst internship at a music/digital-healthcare startup called Sona. My email is open and I'm always willing to chat!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrew-chen-044ba2178/">
